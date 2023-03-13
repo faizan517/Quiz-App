@@ -1,0 +1,95 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Markup Language",
+      "Hyperlinking Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "answer1"
+  },
+  {
+    "question": "What is the syntax for creating a function in JavaScript?",
+    "options": [
+      "function = myFunction()",
+      "function myFunction()",
+      "create function myFunction()",
+      "function: myFunction()"
+    ],
+    "answer": "answer2"
+  },
+  {
+    "question": "Which programming language is often used for data science?",
+    "options": ["Java", "Python", "C++", "Ruby"],
+    "answer": "answer2"
+  },
+  {
+    "question": "What is the command used to initialize a new Git repository?",
+    "options": ["git clone", "git add", "git init", "git commit"],
+    "answer": "answer3"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Cascading Script Sheets",
+      "Computer Style Sheets",
+      "Computer Script Sheets"
+    ],
+    "answer": "answer1"
+  },{
+    "question": "What is the difference between HTML and XHTML?",
+    "options": [
+    "HTML is a markup language while XHTML is a reformulation of HTML in XML syntax",
+    "HTML is used for server-side programming while XHTML is used for client-side programming",
+    "XHTML is an outdated version of HTML that is no longer used",
+    "There is no difference between HTML and XHTML"
+    ],
+    "answer": "answer1"
+    },
+    
+    {
+    "question": "Which data structure uses LIFO (Last In First Out) ordering?",
+    "options": [
+    "Queue",
+    "Stack",
+    "Linked List",
+    "Tree"
+    ],
+    "answer": "answer2"
+    },
+    
+    {
+    "question": "What is the difference between PUT and POST HTTP methods?",
+    "options": [
+    "PUT is used to create a new resource while POST is used to update an existing resource",
+    "PUT is used to update an existing resource while POST is used to create a new resource",
+    "PUT and POST are interchangeable and can be used for the same purpose",
+    "PUT and POST are not HTTP methods"
+    ],
+    "answer": "answer1"
+    },
+    
+    {
+    "question": "Which of the following is NOT a valid HTTP status code?",
+    "options": [
+    "200",
+    "404",
+    "500",
+    "700"
+    ],
+    "answer": "answer4"
+    },
+    
+    {
+    "question": "What is the difference between synchronous and asynchronous programming?",
+    "options": [
+    "Synchronous programming allows multiple tasks to run in parallel while asynchronous programming runs tasks sequentially",
+    "Synchronous programming runs tasks sequentially while asynchronous programming allows multiple tasks to run in parallel",
+    "Synchronous programming and asynchronous programming are the same thing",
+    "There is no difference between synchronous and asynchronous programming"
+    ],
+    "answer": "answer2"
+    }
+]
