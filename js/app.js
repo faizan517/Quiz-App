@@ -39,7 +39,5 @@ const clicked = (data) => {
       : (main.innerHTML = `<p class="question" >You Got ${dataIndex} / ${
           increment == dataIndex ? increment + "👏" : increment
         } </p>`);
-
-    // console.log(increment);
   });
 };
