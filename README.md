@@ -1,2 +1,2 @@
 "# Quiz-App" 
-https://github.com/faizan517/Quiz-App
+https://faizan517.github.io/Quiz-App/
